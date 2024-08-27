@@ -3,7 +3,7 @@
  ## Project Description: 
  This project, Used_car_valuation, was developed as part of the IBM course "Analyzing Data with Python." The primary goal is to create a predictive model capable of estimating the prices of used cars based on various vehicle features, such as manufacturing year, mileage, make, model, and other relevant variables.
  
-The project follows a complete data science pipeline, from data acquisition and cleaning to modeling and performance evaluation. Using Python and Jupyter Notebook, we implement and compare different machine learning algorithms, including Linear Regression, Polynomial regression, and Ridge regression, to identify the most accurate model.
+The project follows a complete data science pipeline, from data acquisition and cleaning to modeling and performance evaluation. Using Python and Jupyter Notebook, i implement and compare different machine learning algorithms, including Linear Regression, Polynomial regression, and Ridge regression, to identify the most accurate model.
 
 
 ## Project Steps:
